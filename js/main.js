@@ -1,4 +1,4 @@
-count = 1;
+count = 0;
 function add() {
     var countValue = document.getElementById('countValue');
     var a = countValue.value;
